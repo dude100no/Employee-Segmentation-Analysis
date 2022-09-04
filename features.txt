@@ -1,0 +1,21 @@
+ #   Column                                          Non-Null Count  Dtype  
+---  ------                                          --------------  -----  
+ 0   Gender_Female                                   1470 non-null   float64
+ 1   Gender_Male                                     1470 non-null   float64
+ 2   Job Function_Human Resources                    1470 non-null   float64
+ 3   Job Function_Research & Development             1470 non-null   float64
+ 4   Job Function_Sales                              1470 non-null   float64
+ 5   MaritalStatus_Divorced                          1470 non-null   float64
+ 6   MaritalStatus_Married                           1470 non-null   float64
+ 7   MaritalStatus_Single                            1470 non-null   float64
+ 8   Resign Status_No                                1470 non-null   float64
+ 9   Resign Status_Yes                               1470 non-null   float64
+ 10  Age                                             1470 non-null   float64
+ 11  BusinessTravel                                  1470 non-null   float64
+ 12  Distance Between Company and Home (KM)          1470 non-null   float64
+ 13  Education (1 is lowest, 5 is highest)           1470 non-null   float64
+ 14  Job Satisfaction (1 is lowest, 4 is highest)    1470 non-null   float64
+ 15  Salary ($)                                      1470 non-null   float64
+ 16  Performance Rating (1 is lowest, 4 is highest)  1470 non-null   float64
+ 17  Work Life Balance (1 is worst, 4 is best)       1470 non-null   float64
+ 18  Length of Service (Years)                       1470 non-null   float64
